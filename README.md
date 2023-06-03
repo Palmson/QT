@@ -1,2 +1,0 @@
-# Stud
-Archive of projects
